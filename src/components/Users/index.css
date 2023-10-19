@@ -1,0 +1,16 @@
+.formMain{
+    padding: 30px;
+     background-color: #0BA298;
+     border-radius: 20px;
+     width: 40%;
+     margin: 30px auto;
+}
+.users h6{
+    font-size: 25px;
+    font-weight: 600;
+    margin-top: 40px;
+}
+
+@media(max-width : 767px){
+    .formMain{width: 80%;}
+}

@@ -1,0 +1,22 @@
+.headerMain h6{
+    font-size: 30px;
+    /* padding: 20px; */
+}
+.headerMain{
+    padding: 20px;
+    background-color: #0BA298;
+}
+.formMain input[type="submit"]{
+    border: none;
+    padding: 8px 20px;
+    background-color: #032C29;
+    color: #ffffff;
+    border-radius: 5px;
+}
+.headerRoutes{
+    column-gap: 20px;
+}
+.headerRoutes a{
+    color: #032C29;
+    text-transform: uppercase;
+}

@@ -1,0 +1,28 @@
+.listUsersMain h6{
+    font-size: 25px;
+    font-weight: 600;
+    margin: 40px 0 20px 0;
+    
+}
+.listUsersMain thead{
+    background-color: #0BA298;
+}
+.listTable{
+    width: 80%;
+    margin: 0 auto;
+}
+.listTable thead th{
+    padding: 8px;
+}
+.listTable tbody td{
+    padding: 8px;
+    
+}
+.listUsersMain tbody{
+    background-color: #0ba2984d;
+}
+.listTable tbody button{
+    background-color: #0BA298;
+    border: none;
+    border-radius: 2px;
+}
